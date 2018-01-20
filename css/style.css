@@ -4,7 +4,7 @@ body, html {
 }
 
 div#home {
-	background-image: url(../img/bulbs.png);
+	background-image: url(../img/bulbs.jpg);
 	background-size: cover;
 	/*background-size: 115%;*/
 	/*background-position: right bottom;*/
