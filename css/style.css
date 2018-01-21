@@ -4,14 +4,14 @@ body, html {
 }
 
 div#home {
-	background-image: url(../img/cover.jpg);
+	background-image: url(../img/cover2.jpg);
 	background-size: cover;
 	/*background-size: 115%;*/
 	/*background-position: right bottom;*/
 }
 
 div#about {
-	background-image: url(../img/cover.jpg);
+	background-image: url(../img/cover3.jpg);
 	background-size: 100%;
 }
 
